@@ -1,5 +1,4 @@
 
-
 ### Unit testing using Typescript and Mocha. Code tested in Node.js v6.11.4. 
 #### To run this code:
 1. Go to project root folder
@@ -22,5 +21,3 @@ npm 5.6.0
 node 8.9.4
 
 
-
-Hello World 
